@@ -4,7 +4,7 @@ official： http://www.dlink.com.cn/
 
 version:DAR-8000-10
 
-Vulnerability Path ：/sysmanage/changelogo.php
+Vulnerability Path ：/sysmanage/updateos.php
 
 Ip：https://59.60.19.174:8443/
 
