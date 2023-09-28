@@ -1,7 +1,7 @@
 There is a backend SQL injection vulnerability in the D-LINK DAR-7000 series online behavior audit gateway. Attackers can exploit vulnerabilities to gain server privileges or cause business impact on the system.
 official： http://www.dlink.com.cn/
 
-version:DAR-7000
+version:DAR-7000  DAR V31R02B1413C
 
 Vulnerability Path ：/importexport.php
 <img width="743" alt="图片" src="https://github.com/llixixi/cve/assets/144869546/47c12a81-4b76-4f9c-895f-6cd979eb4b80">
