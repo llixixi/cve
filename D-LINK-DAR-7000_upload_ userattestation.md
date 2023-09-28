@@ -2,7 +2,7 @@ The D-LINK DAR-7000 series online behavior audit gateway has a file upload vulne
 
 official： http://www.dlink.com.cn/
 
-version:DAR-7000
+version:DAR-7000  DAR V31R02B1413C
 
 Vulnerability Path ：/useratte/userattestation.php
 
