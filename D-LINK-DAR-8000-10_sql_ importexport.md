@@ -2,7 +2,7 @@ The full version of the D-LINK DAR-8000-10 series online behavior audit gateway 
 
 official： http://www.dlink.com.cn/
 
-version:DAR-8000-10
+version:DAR-8000-10  DAR V31R02B1413C
 
 Vulnerability Path ：/importexport.php
 https://59.60.19.174:8443/
